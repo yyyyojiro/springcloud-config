@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: cloud-gateway1
+config:
+  info: xxxtest prod
